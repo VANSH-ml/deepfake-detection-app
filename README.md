@@ -40,6 +40,8 @@ CNNs for spatial feature extraction.
 LSTMs for sequential frame analysis.
 
 Transfer learning with models like EfficientNet & XceptionNet.
+<img width="1919" height="1045" alt="Screenshot 2025-08-25 011417" src="https://github.com/user-attachments/assets/78e85653-6a02-45a3-baa6-bb9a5d36435b" />
+
 
 📑 Reports & Analytics
 Generate summary reports with flagged frames and highlighted fake regions.
