@@ -1,4 +1,6 @@
-🔍 Deepfake Detection System (DFS)
+🛡 Safeguarding Digital Trust with AI
+
+Deepfake Detection System (DFS)
 
 AI-Powered Detection of Manipulated Media
 Real-time deepfake detection using CNN/LSTM models, face recognition, and frame-level analysis to ensure authenticity of videos and images.
